@@ -4,5 +4,6 @@
 <body>
 
 <p>Esto es un parrafo y el cambio desde el repositorio remoto</p>
+ACA SE GENERARA EL CONFLICTO
 </body>
 </html>
